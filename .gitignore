@@ -1,0 +1,10 @@
+*.o
+*.a
+vgcore.*
+.vscode/
+my_segfault
+test
+mysh
+my_arrdup_copy.c
+test_minishell/
+backup/
